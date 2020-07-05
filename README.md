@@ -1,6 +1,6 @@
 ### 👋 Hello! 
 
-I'm a Technical Support Account Manager (TSAM) at GitHub. My job is to help ensure that our customers are able to use GitHub as successfully as possible within their organization!
+I'm a Technical Support Account Manager (TSAM) and I partner with our customers to help ensure that they're as successful as possible using GitHub!
 
 I'm passionate about solving problems and playing around with new technologies. I dabble with home automation, enjoy long walks on the beach, and spend far too much time on a command line...
 
