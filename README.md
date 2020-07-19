@@ -10,9 +10,9 @@ I primarily work with Bash, Ansible, Terraform, and dabble in some Python for ho
 
 My daily drivers are [iTerm2](https://github.com/gnachman/iTerm2), [Atom](https://github.com/atom/atom), and of course a whole lot of [GitHub](https://github.com/).
 
-### 🌱 L & D 
+### 🌱 What am I learning?
 
-I’m currently deep diving into Ruby on Rails, as well as working on a variety of infrastructure projects to become more fully versed in the IaaS/PaaS spaces.
+I’m currently deep diving into Rails, as well as working on a variety of infrastructure projects to become more fully versed in the IaaS/PaaS spaces.
 
 ### 📫 Want to connect?
 
