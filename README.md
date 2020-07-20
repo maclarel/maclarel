@@ -12,7 +12,7 @@ My daily drivers are [iTerm2](https://github.com/gnachman/iTerm2), [Atom](https:
 
 ### 🌱 What am I learning?
 
-I’m currently deep diving into Rails, as well as working on a variety of infrastructure projects to become more fully versed in the IaaS/PaaS spaces.
+I’m currently working on a variety of infrastructure projects to become more fully versed in the IaaS/PaaS spaces, as well as lots of home lab projects involving automation and containers!
 
 ### 📫 Want to connect?
 
