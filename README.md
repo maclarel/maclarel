@@ -6,7 +6,7 @@ I'm passionate about solving problems and playing around with new technologies. 
 
 ### 🔭 What do I use to work?
 
-I primarily work with Bash, Ansible, Terraform, and dabble in some Python for home projects and to build out tooling used across our Support teams at GitHub!
+I primarily work with Ansible, Bash, Python, and Ruby for home projects and to build out tooling used across our Support teams at GitHub!
 
 My daily drivers are [iTerm2](https://github.com/gnachman/iTerm2), [Atom](https://github.com/atom/atom), and of course a whole lot of [GitHub](https://github.com/).
 
