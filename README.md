@@ -18,5 +18,5 @@ I’m currently working on a variety of infrastructure projects to become more f
 
 - [Twitter](https://twitter.com/maclarel_)
 - [LinkedIn](https://www.linkedin.com/in/loganmaclaren/)
-- [Blog](https://thedatanewbie.com/)
+- [Blog](https://maclarel.github.io/)
 - [YouTube](https://www.youtube.com/channel/UCRoQUH8UHGi18ERXjYin8AQ)
