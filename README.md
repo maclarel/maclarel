@@ -6,13 +6,11 @@ I'm passionate about solving problems and playing around with new technologies. 
 
 ### 🔭 What do I use to work?
 
-I primarily work with Ansible, Bash, Python, Ruby, and Terraform for home projects and to build out tooling used across our teams at GitHub!
-
-My daily drivers are [iTerm2](https://github.com/gnachman/iTerm2), [Atom](https://github.com/atom/atom), and of course a whole lot of [GitHub](https://github.com/).
+I primarily work with Ansible, Bash, Python, Ruby, and Terraform for home projects as well as tooling used across our teams at GitHub and our customers!
 
 ### 🌱 What am I learning?
 
-I’m currently working on a variety of infrastructure projects to become more fully versed in the IaaS/PaaS spaces, as well as lots of home lab projects involving automation and containers!
+Ongoing learnings with Ruby and IaC/Automation (Terraform/Ansible)... and the never ending journey to have a better `.vimrc`.
 
 ### 📫 Want to connect?
 
