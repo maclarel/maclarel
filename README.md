@@ -10,7 +10,7 @@ I primarily work with Ansible, Bash, Python, Ruby, and Terraform for home projec
 
 ### 🌱 What am I learning?
 
-Ongoing learnings with Ruby and IaC/Automation (Terraform/Ansible)... and the never ending journey to have better dotfiles.
+Ongoing learnings with Ruby, Python, IaC/Automation (Terraform/Ansible)... and the never ending journey to have better dotfiles.
 
 ### 📫 Want to connect?
 
