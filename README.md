@@ -1,6 +1,6 @@
 ### 👋 Hello! 
 
-I'm a Technical Support Account Manager and I partner with our customers to help ensure that they're as successful as possible using GitHub! Don't let the position name fool you, I spend about 90% of my time at a command line building tooling, digging through logs, and troubleshooting applications at scale.
+I'm a Customer Reliability Engineer and I partner with our customers to help ensure that they're as successful as possible using GitHub!
 
 I'm passionate about solving problems and playing around with new technologies. I dabble with home automation, enjoy long walks on the beach, and probably spend too much time cuddling with my puppy 🐶!
 
