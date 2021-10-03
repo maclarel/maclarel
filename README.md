@@ -6,7 +6,7 @@ I'm passionate about solving problems and playing around with new technologies. 
 
 ### 🔭 What do I use to work?
 
-I primarily work with Ansible, Bash, Python, Ruby, and Terraform for home projects as well as tooling used across our teams at GitHub and our customers! Pretty much all of my work is either done in a web browser or in Vim 🤓
+I primarily work with Ansible, Shell, Python, Ruby, and Terraform for home projects as well as tooling used across our teams at GitHub and our customers! Pretty much all of my work is either done in a web browser or in Vim 🤓
 
 ### 🌱 What am I learning?
 
