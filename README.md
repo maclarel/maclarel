@@ -14,7 +14,6 @@ Ongoing learnings with Ruby, Python, refining my CTF skills... and the never end
 
 ### 📫 Want to connect?
 
-- [Twitter](https://twitter.com/maclarel_)
+- [Mastodon](https://infosec.exchange/@gill3tt3)
 - [LinkedIn](https://www.linkedin.com/in/loganmaclaren/)
-- [Blog](https://maclarel.github.io/)
-- [YouTube](https://www.youtube.com/channel/UCRoQUH8UHGi18ERXjYin8AQ)
+- [Blog](https://maclaren.dev)
