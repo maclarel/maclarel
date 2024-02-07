@@ -1,19 +1,13 @@
 ### 👋 Hello! 
 
-I work with GitHub's Security team to help ensure the safety, reliability, and security of GitHub as the home for all developers!
+I currently work at GitHub ensuring the safety, reliability, and security of our platform and users.
 
-I'm passionate about solving problems and ~breaking~ playing around with new technologies. I dabble with home automation, participate in CTF events, enjoy long walks on the beach, and probably spend too much time cuddling with my puppy 🐶!
-
-### 🔭 What do I use to work?
-
-I primarily work with Shell, Python, Ruby, Ansible, and Terraform for home projects as well as tooling used across our teams at GitHub and our customers! Pretty much all of my work is either done in a web browser or in Vim 🤓
-
-### 🌱 What am I learning?
-
-Ongoing learnings with Ruby, Python, refining my CTF skills... and the never ending journey to have better dotfiles.
+I'm passionate about solving problems and ~learning~ breaking new technologies. When not bug hunting in OSS projects you can find me building/playing CTF challenges or lurking in the shadows at many security conferences across North America.
 
 ### 📫 Want to connect?
 
 - [Mastodon](https://infosec.exchange/@gill3tt3)
 - [LinkedIn](https://www.linkedin.com/in/loganmaclaren/)
 - [Blog](https://maclaren.dev)
+
+`dHR2YXM6Ly9uYWgua293ZXVzaS5uYW0veWx0dGw/Zz1wUXk0aDlXeEJuQw==`
