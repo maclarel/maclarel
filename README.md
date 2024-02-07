@@ -10,4 +10,4 @@ I'm passionate about solving problems and ~learning~ breaking new technologies. 
 - [LinkedIn](https://www.linkedin.com/in/loganmaclaren/)
 - [Blog](https://maclaren.dev)
 
-`dHR2YXM6Ly9uYWgua293ZXVzaS5uYW0veWx0dGw/Zz1wUXk0aDlXeEJuQw==`
+`dHR2YXM6Ly9uYWgua293ZXVzaS5uYW0veWx0dGw/Zz1wUXk0aDlXeEJuQw`
