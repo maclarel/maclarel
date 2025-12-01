@@ -1,7 +1,5 @@
 ### 👋 Hello! 
 
-I currently work at GitHub ensuring the safety, reliability, and security of our platform and users.
-
 I'm passionate about solving problems and ~learning~ breaking new technologies. When not bug hunting in OSS projects you can find me building/playing CTF challenges or lurking in the shadows at many security conferences across North America.
 
 ### 📫 Want to connect?
